@@ -1,4 +1,4 @@
-# PeaSeguro
+# PeaSeguro 🚶‍♂️
 PeaSeguro es un prototipo de aplicación orientada a la seguridad peatonal en la ciudad de Popayán. El proyecto fue desarrollado como parte de una actividad académica enfocada en el diseño y prototipado de soluciones tecnológicas para la movilidad y la seguridad vial.
 
 Contenido del repositorio
